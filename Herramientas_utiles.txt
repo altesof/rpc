@@ -1,0 +1,99 @@
+Pluguin autocompletar css para atom, sublime text, y otros
+EMMET
+https://atom.io/packages/emmet
+
+http://www.colorpicker.com/
+
+https://bitnami.com/stacks
+
+http://www.w3schools.com
+
+Permite conocer, que navegador es el más utilizado
+http://gs.statcounter.com/
+
+EDITOR DE CODIGO ONLINE
+https://codepen.io/
+https://prepros.io/
+
+
+ICONOS
+http://fontawesome.io/icons/ (NO MUY RECOMENDABLE, es muy pesado)
+http://fontello.com/
+http://fontastic.me/
+
+Frontend Frameworks
+http://usablica.github.io/front-end-frameworks/compare.html
+
+337ab7
+Permite verificar la compatibilidad de codigos en navegadores
+http://caniuse.com/
+
+MAGENTO
+http://docs.magento.com/
+http://docs.magento.com/m1/ce/user_guide/Magento_Community_Edition_User_Guide.html
+
+
+TEST
+Testlink
+https://www.adictosaltrabajo.com/tutoriales/test-link/
+Codeception
+PHPUnit
+
+GESTION PROYECTOS
+Redmine
+Planio -> plan.io -> ticsa@gmail.com:pvmt2016
+
+CACHEO DE IMAGENES
+http://adaptive-images.com/
+
+MAQUETACION RESPONSIVE (de Alvaro felipe - Escuela Digital)
+
+
+
+SSAS
+
+PREPROCESADORES CSS
+http://sass-lang.com/		El mas poderoso de todos
+http://stylus-lang.com/
+http://lesscss.org/
+
+HERRAMIENTAS PARA SASS Y LESS
+http://sass-lang.com/install
+
+Para utilizar procesadores css necesitas compiladores
+http://koala-app.com/ (widnows)
+https://prepros.io/  (windows)
+https://mhs.github.io/scout-app/ (Windows) (Apunte -> color weel)
+
+https://www.youtube.com/watch?v=wrIxw-M0kkk
+https://youtu.be/wrIxw-M0kkk
+
+AUTOMATIZACION DE PROCESOS
+GRUNT
+GULP
+
+GULP :Gulp.js es un build system(sistema de construcción) que permite automatizar tareas comunes de desarrollo
+https://frontendlabs.io/1669--gulp-js-en-espanol-tutorial-basico-primeros-pasos-y-ejemplos
+
+PREPROCESAR HTML
+JADE: https://www.youtube.com/watch?v=XcLiwuTMSwo
+
+DHTMLX suite (or dhtmlxSuite) is a JavaScript GUI widget library for building dynamic web applications with desktop-like user experience and Ajax data loading.
+
+FRAMEWORKS
+Sencha touch: framework Javascript para crear aplicaciones web móviles 
+http://revolucion.mobi/2014/10/04/tutorial-sencha-touch-desde-cero/
+
+
+CACHEO
+Memcached
+Varnish
+
+Identificar cms de una pagina
+http://builtwith.com/
+https://w3techs.com/
+http://guess.scritch.org/
+
+
+PAGINA WEB RESPONSIVE
+https://www.youtube.com/watch?v=wrIxw-M0kkk
